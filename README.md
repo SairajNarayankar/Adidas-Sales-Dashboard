@@ -25,7 +25,7 @@ This repository contains an interactive **Adidas Sales Dashboard** designed to p
 
 ## Dashboard Preview
 
-"https://github.com/user-attachments/assets/81e23ab3-5cdb-4111-b8eb-2367f35b926e"
+https://github.com/user-attachments/assets/81e23ab3-5cdb-4111-b8eb-2367f35b926e
 
 ## How to Use
 
