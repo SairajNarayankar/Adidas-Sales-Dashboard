@@ -25,7 +25,7 @@ This repository contains an interactive **Adidas Sales Dashboard** designed to p
 
 ## Dashboard Preview
 
-![Adidas Sales Dashboard](image1)
+"https://github.com/user-attachments/assets/81e23ab3-5cdb-4111-b8eb-2367f35b926e"
 
 ## How to Use
 
@@ -58,12 +58,6 @@ This repository contains an interactive **Adidas Sales Dashboard** designed to p
 ## Contributing
 
 Contributions are welcome! Please fork the repo and submit a pull request for enhancements, bug fixes, or new features.
-
-
-
-https://github.com/user-attachments/assets/81e23ab3-5cdb-4111-b8eb-2367f35b926e
-
-
 
 ## Contact
 
